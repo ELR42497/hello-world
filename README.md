@@ -1,2 +1,2 @@
 # hello-world
-Tutorial project
+Tutorial project for first time user.
